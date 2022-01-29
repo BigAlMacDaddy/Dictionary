@@ -1,0 +1,171 @@
+[	
+	{"word":"head",
+		"phonetic":"hɛd",
+		"phonetics":[{"text":"hɛd","audio":"//ssl.gstatic.com/dictionary/static/sounds/20200429/_head--1_gb_1.mp3"}],
+		"origin":"Old English hēafod, of Germanic origin; related to Dutch hoofd and German Haupt .",
+		"meanings":[
+			{"partOfSpeech":"noun",
+			"definitions":[
+				{"definition":"the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a thing resembling a head either in form or in relation to a whole.",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"the front, forward, or upper part or end of something.",
+					"synonyms":["front","beginning","start","fore","forefront","top","leading position","foremost position"],
+					"antonyms":["back","bottom"]
+				},
+				
+				{"definition":"a person in charge of something; a director or leader.",
+					"example":"the head of the Dutch Catholic Church",
+					"synonyms":["leader","chief","boss","controller","master","supervisor","governor","superintendent","foreman","forewoman","headman","commander","commanding officer","captain","director","managing director","chief executive","manager","principal","head teacher","headmaster","headmistress","president","premier","prime minister","ruler","chair","chairman","chairwoman","chairperson","chief executive officer","CEO","boss man","kingpin","top dog","big cheese","bigwig","Mr Big","skipper","gaffer","guv'nor","numero uno","head honcho","padrone","sachem","big white chief","big kahuna","big wheel","high muckamuck"],
+					"antonyms":["subordinate"]
+				},
+				
+				{"definition":"a person considered as a numerical unit.",
+					"example":"they paid fifty pounds a head",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a component in an audio, video, or information system by which information is transferred from an electrical signal to the recording medium, or vice versa.",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a body of water kept at a particular height in order to provide a supply at sufficient pressure.",
+					"example":"an 8 m head of water in the shafts",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a toilet on a ship or boat.","example":"they were cleaning out the heads",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"the word that governs all the other words in a phrase in which it is used, having the same grammatical function as the whole phrase.",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a superficial deposit of rock fragments, formed at the edge of an ice sheet by repeated freezing and thawing and then moved downhill.",
+					"synonyms":[],
+					"antonyms":[]
+				},
+				
+				{"definition":"a group of pheasants.",
+					"example":"it is easy to get up a head of pheasants with the aid of good keepers",
+					"synonyms":[],
+					"antonyms":[]
+				}
+			]
+		},
+		
+			{"partOfSpeech":"adjective",
+				"definitions":[
+					{"definition":"chief; principal.",
+						"example":"the head waiter",
+						"synonyms":["chief","principal","leading","main","first","front","prime","premier","foremost","top","topmost","highest","supreme","pre-eminent","high-ranking","top-ranking","most important","ranking","top-notch"],
+						"antonyms":["subordinate"]
+					}
+				]
+			},
+		
+			{"partOfSpeech":"verb",
+				"definitions":[
+					{"definition":"be in the leading position on.",
+						"example":"the St George's Day procession was headed by the mayor",
+						"synonyms":["be at the front of","lead","be the leader of","be at the head of","be first","go first","lead the way"],
+						"antonyms":["be at the back of","bring up the rear of"]
+					},
+					
+					{"definition":"give a title or caption to.",
+						"example":"an article headed ‘The Protection of Human Life’",
+						"synonyms":[],
+						"antonyms":[]
+					},
+					
+					{"definition":"move in a specified direction.",
+						"example":"he was heading for the exit",
+						"synonyms":["move towards","go towards","make for","aim for","make one's way towards","go in the direction of","direct one's steps towards","be bound for","steer for","make a beeline for","set out in the direction of","set out for","start out for"],
+						"antonyms":["move away from"]
+					},
+					
+					{"definition":"shoot or pass (the ball) with the head.",
+						"example":"a corner kick that Moody headed into the net",
+						"synonyms":[],
+						"antonyms":[]
+					},
+					
+					{"definition":"lop off the upper part or branches of (a plant or tree).",
+						"example":"the willow is headed every three or four years",
+						"synonyms":[],
+						"antonyms":[]
+					},
+					
+					{"definition":"(of a lettuce or cabbage) form a head.",
+						"synonyms":[],
+						"antonyms":[]
+					}
+				]
+			}
+		]
+	},
+	
+	{"word":"-head",
+		"phonetic":"hɛd",
+		"phonetics":[
+			{"text":"hɛd",
+			"audio":"//ssl.gstatic.com/dictionary/static/sounds/20200429/_head--1_gb_1.mp3"
+			}
+		],
+		"origin":"Middle English -hed, -hede .",
+		"meanings":[
+			{"partOfSpeech":"suffix",
+				"definitions":[
+					{"definition":"equivalent to -hood.",
+						"example":"maidenhead",
+						"synonyms":[],
+						"antonyms":[]
+					}
+				]
+			}
+		]
+	},
+	
+	{"word":"-head",
+		"phonetic":"hɛd",
+		"phonetics":[
+			{"text":"hɛd"}
+		],
+		"meanings":[
+			{"partOfSpeech":"suffix",
+				"definitions":[
+					{"definition":"denoting the front, forward, or upper part or end of a specified thing.",
+						"example":"spearhead",
+							"synonyms":[],
+							"antonyms":[]
+					},
+						
+					{"definition":"forming informal nouns expressing disparagement of a person.",
+						"example":"airhead",
+						"synonyms":[],
+						"antonyms":[]
+					},
+						
+					{"definition":"forming informal nouns denoting an addict or habitual user of a specified drug.",
+						"example":"crackhead",
+						"synonyms":[],
+						"antonyms":[]
+					}
+				]
+			}
+		]
+	}
+]
